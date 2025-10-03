@@ -1,0 +1,574 @@
+Order_Year,Order_Month,Category,Region,Sales,Customer ID
+2015,1,Furniture,Central,506.358,3
+2015,1,Furniture,East,199.004,3
+2015,1,Furniture,South,4353.4800000000005,5
+2015,1,Furniture,West,1158.435,5
+2015,1,Office Supplies,Central,996.408,7
+2015,1,Office Supplies,East,112.97,4
+2015,1,Office Supplies,South,1955.4740000000002,7
+2015,1,Office Supplies,West,1780.288,7
+2015,1,Technology,Central,31.2,1
+2015,1,Technology,East,124.2,1
+2015,1,Technology,South,2987.89,5
+2015,2,Furniture,Central,439.31,3
+2015,2,Furniture,South,1256.22,1
+2015,2,Furniture,West,144.12800000000001,2
+2015,2,Office Supplies,Central,262.654,7
+2015,2,Office Supplies,East,84.416,2
+2015,2,Office Supplies,South,50.796,3
+2015,2,Office Supplies,West,673.858,9
+2015,2,Technology,Central,531.21,2
+2015,2,Technology,East,115.36,1
+2015,2,Technology,South,721.97,3
+2015,2,Technology,West,239.97,1
+2015,3,Furniture,Central,3639.29,6
+2015,3,Furniture,East,3942.786,4
+2015,3,Furniture,South,2740.5600000000004,6
+2015,3,Furniture,West,3920.732,9
+2015,3,Office Supplies,Central,1281.474,13
+2015,3,Office Supplies,East,1019.49,13
+2015,3,Office Supplies,South,1623.785,16
+2015,3,Office Supplies,West,4677.706,15
+2015,3,Technology,Central,906.838,3
+2015,3,Technology,East,495.90000000000003,3
+2015,3,Technology,South,28546.775999999998,5
+2015,3,Technology,West,2410.46,7
+2015,4,Furniture,Central,1468.218,3
+2015,4,Furniture,East,929.4140000000001,4
+2015,4,Furniture,South,2016.104,5
+2015,4,Furniture,West,3531.1009999999997,9
+2015,4,Office Supplies,Central,1257.794,8
+2015,4,Office Supplies,East,1756.8200000000002,11
+2015,4,Office Supplies,South,6973.242,12
+2015,4,Office Supplies,West,1001.018,17
+2015,4,Technology,Central,986.328,2
+2015,4,Technology,East,368.672,4
+2015,4,Technology,South,3079.906,8
+2015,4,Technology,West,4538.238,7
+2015,5,Furniture,Central,2304.382,9
+2015,5,Furniture,East,2433.143,6
+2015,5,Furniture,South,310.88,1
+2015,5,Furniture,West,1864.382,7
+2015,5,Office Supplies,Central,793.612,12
+2015,5,Office Supplies,East,1718.006,13
+2015,5,Office Supplies,South,3415.776,7
+2015,5,Office Supplies,West,1204.246,12
+2015,5,Technology,Central,946.528,4
+2015,5,Technology,East,3098.954,4
+2015,5,Technology,South,2052.584,4
+2015,5,Technology,West,3501.81,8
+2015,6,Furniture,Central,4222.5026,6
+2015,6,Furniture,East,3672.689,5
+2015,6,Furniture,South,1823.8419999999999,5
+2015,6,Furniture,West,3425.548,8
+2015,6,Office Supplies,Central,4459.244,16
+2015,6,Office Supplies,East,3392.63,16
+2015,6,Office Supplies,South,1105.729,5
+2015,6,Office Supplies,West,3784.7860000000005,10
+2015,6,Technology,Central,692.36,2
+2015,6,Technology,East,3693.837,7
+2015,6,Technology,South,1630.6799999999998,4
+2015,6,Technology,West,2419.088,4
+2015,7,Furniture,Central,2185.8959999999997,4
+2015,7,Furniture,East,1386.67,5
+2015,7,Furniture,South,456.214,3
+2015,7,Furniture,West,6792.271,13
+2015,7,Office Supplies,Central,3446.5119999999997,12
+2015,7,Office Supplies,East,527.262,11
+2015,7,Office Supplies,South,317.01599999999996,7
+2015,7,Office Supplies,West,10830.418,22
+2015,7,Technology,Central,1108.166,6
+2015,7,Technology,East,1489.364,7
+2015,7,Technology,South,1055.8899999999999,2
+2015,7,Technology,West,4185.864,7
+2015,8,Furniture,Central,964.482,3
+2015,8,Furniture,East,2010.402,4
+2015,8,Furniture,South,2744.7625,6
+2015,8,Furniture,West,1405.564,9
+2015,8,Office Supplies,Central,1186.531,7
+2015,8,Office Supplies,East,1830.686,18
+2015,8,Office Supplies,South,2705.062,11
+2015,8,Office Supplies,West,5332.997,19
+2015,8,Technology,Central,871.1700000000001,2
+2015,8,Technology,East,741.36,4
+2015,8,Technology,South,1320.132,5
+2015,8,Technology,West,6004.388,12
+2015,9,Furniture,Central,6189.8278,12
+2015,9,Furniture,East,10015.199,20
+2015,9,Furniture,South,524.6,4
+2015,9,Furniture,West,7086.854,13
+2015,9,Office Supplies,Central,12488.706,20
+2015,9,Office Supplies,East,8440.576,39
+2015,9,Office Supplies,South,2335.74,14
+2015,9,Office Supplies,West,4158.276,28
+2015,9,Technology,Central,15576.332,9
+2015,9,Technology,East,6837.014,10
+2015,9,Technology,South,4314.995000000001,6
+2015,9,Technology,West,3655.407,7
+2015,10,Furniture,Central,295.367,3
+2015,10,Furniture,East,6725.66,9
+2015,10,Furniture,South,2225.3540000000003,7
+2015,10,Furniture,West,3057.866,9
+2015,10,Office Supplies,Central,1758.6779999999999,12
+2015,10,Office Supplies,East,1757.2060000000001,15
+2015,10,Office Supplies,South,1147.018,10
+2015,10,Office Supplies,West,2548.226,20
+2015,10,Technology,Central,6911.712,7
+2015,10,Technology,East,462.25800000000004,4
+2015,10,Technology,South,1441.382,3
+2015,10,Technology,West,3122.666,13
+2015,11,Furniture,Central,5164.7722,12
+2015,11,Furniture,East,8253.592,17
+2015,11,Furniture,South,2014.038,4
+2015,11,Furniture,West,6038.6385,18
+2015,11,Office Supplies,Central,6127.024,29
+2015,11,Office Supplies,East,9562.517,31
+2015,11,Office Supplies,South,2824.585,14
+2015,11,Office Supplies,West,7849.07,39
+2015,11,Technology,Central,2612.66,11
+2015,11,Technology,East,15757.086,13
+2015,11,Technology,South,2546.45,5
+2015,11,Technology,West,9157.228,21
+2015,12,Furniture,Central,5433.9619999999995,13
+2015,12,Furniture,East,7264.888,16
+2015,12,Furniture,South,6476.7,7
+2015,12,Furniture,West,11461.7925,20
+2015,12,Office Supplies,Central,2722.482,29
+2015,12,Office Supplies,East,5454.114,23
+2015,12,Office Supplies,South,1331.575,18
+2015,12,Office Supplies,West,7448.321,34
+2015,12,Technology,Central,2150.53,10
+2015,12,Technology,East,11978.674,14
+2015,12,Technology,South,947.6980000000001,5
+2015,12,Technology,West,5496.322,11
+2016,1,Furniture,Central,1962.2236,4
+2016,1,Furniture,East,1652.54,3
+2016,1,Furniture,South,4489.8640000000005,2
+2016,1,Furniture,West,3635.3140000000003,4
+2016,1,Office Supplies,Central,149.888,5
+2016,1,Office Supplies,East,711.476,6
+2016,1,Office Supplies,South,475.96999999999997,4
+2016,1,Office Supplies,West,471.44599999999997,5
+2016,1,Technology,Central,398.4,1
+2016,1,Technology,East,2199.86,3
+2016,1,Technology,West,1919.976,1
+2016,2,Furniture,Central,69.184,2
+2016,2,Furniture,East,2137.542,3
+2016,2,Furniture,South,551.264,1
+2016,2,Furniture,West,376.38399999999996,3
+2016,2,Office Supplies,Central,814.252,4
+2016,2,Office Supplies,East,3089.681,10
+2016,2,Office Supplies,South,575.26,3
+2016,2,Office Supplies,West,888.874,7
+2016,2,Technology,Central,1644.15,5
+2016,2,Technology,East,1235.9099999999999,4
+2016,2,Technology,South,29.99,1
+2016,2,Technology,West,538.92,1
+2016,3,Furniture,Central,3835.6144,7
+2016,3,Furniture,East,516.547,2
+2016,3,Furniture,South,1204.208,2
+2016,3,Furniture,West,3166.268,10
+2016,3,Office Supplies,Central,851.222,13
+2016,3,Office Supplies,East,1649.0040000000001,13
+2016,3,Office Supplies,South,8589.983,14
+2016,3,Office Supplies,West,2382.53,14
+2016,3,Technology,Central,1594.382,7
+2016,3,Technology,East,1301.986,5
+2016,3,Technology,South,527.904,2
+2016,3,Technology,West,6719.67,10
+2016,4,Furniture,Central,1723.7830000000001,6
+2016,4,Furniture,East,2476.044,5
+2016,4,Furniture,South,3959.7195,6
+2016,4,Furniture,West,2316.152,6
+2016,4,Office Supplies,Central,6692.142,15
+2016,4,Office Supplies,East,2308.0119999999997,18
+2016,4,Office Supplies,South,324.55400000000003,7
+2016,4,Office Supplies,West,3193.11,17
+2016,4,Technology,Central,3226.13,7
+2016,4,Technology,East,2994.7400000000002,7
+2016,4,Technology,South,1434.06,4
+2016,4,Technology,West,3506.022,11
+2016,5,Furniture,Central,3920.219,9
+2016,5,Furniture,East,1475.578,7
+2016,5,Furniture,South,226.688,2
+2016,5,Furniture,West,3752.4655,6
+2016,5,Office Supplies,Central,1771.934,14
+2016,5,Office Supplies,East,2591.384,15
+2016,5,Office Supplies,South,714.104,8
+2016,5,Office Supplies,West,3864.158,16
+2016,5,Technology,Central,2931.75,7
+2016,5,Technology,East,3242.306,4
+2016,5,Technology,South,1042.912,4
+2016,5,Technology,West,4426.032,5
+2016,6,Furniture,Central,1069.181,3
+2016,6,Furniture,East,2273.212,7
+2016,6,Furniture,South,2266.088,6
+2016,6,Furniture,West,1932.49,7
+2016,6,Office Supplies,Central,1015.99,10
+2016,6,Office Supplies,East,4647.832,14
+2016,6,Office Supplies,South,3093.705,11
+2016,6,Office Supplies,West,865.51,12
+2016,6,Technology,Central,1628.016,5
+2016,6,Technology,East,521.944,3
+2016,6,Technology,South,1994.4560000000001,9
+2016,6,Technology,West,2290.9500000000003,7
+2016,7,Furniture,Central,2636.159,4
+2016,7,Furniture,East,5263.142,10
+2016,7,Furniture,South,852.116,7
+2016,7,Furniture,West,4915.623,8
+2016,7,Office Supplies,Central,1232.304,12
+2016,7,Office Supplies,East,1932.204,18
+2016,7,Office Supplies,South,721.3820000000001,9
+2016,7,Office Supplies,West,820.353,9
+2016,7,Technology,Central,3737.1040000000003,5
+2016,7,Technology,East,4520.252,7
+2016,7,Technology,South,623.77,4
+2016,7,Technology,West,1353.8500000000001,3
+2016,8,Furniture,Central,2956.9992,8
+2016,8,Furniture,East,2036.5439999999999,8
+2016,8,Furniture,South,46.152,1
+2016,8,Furniture,West,4598.897,10
+2016,8,Office Supplies,Central,2198.032,12
+2016,8,Office Supplies,East,4719.0,17
+2016,8,Office Supplies,South,1043.788,6
+2016,8,Office Supplies,West,3774.288,21
+2016,8,Technology,Central,4146.42,3
+2016,8,Technology,East,2628.2380000000003,7
+2016,8,Technology,South,4494.8099999999995,3
+2016,8,Technology,West,4175.174,7
+2016,9,Furniture,Central,3573.406,10
+2016,9,Furniture,East,12308.457999999999,14
+2016,9,Furniture,South,4467.23,9
+2016,9,Furniture,West,4736.329,14
+2016,9,Office Supplies,Central,636.894,15
+2016,9,Office Supplies,East,7544.247,34
+2016,9,Office Supplies,South,4958.148999999999,17
+2016,9,Office Supplies,West,5891.764999999999,35
+2016,9,Technology,Central,3368.2200000000003,5
+2016,9,Technology,East,9548.302,19
+2016,9,Technology,South,4166.128000000001,7
+2016,9,Technology,West,1934.478,10
+2016,10,Furniture,Central,3412.057,6
+2016,10,Furniture,East,2126.692,5
+2016,10,Furniture,South,1695.6675,4
+2016,10,Furniture,West,4430.071,13
+2016,10,Office Supplies,Central,719.125,17
+2016,10,Office Supplies,East,604.904,13
+2016,10,Office Supplies,South,2238.572,10
+2016,10,Office Supplies,West,5079.759,21
+2016,10,Technology,Central,2869.304,10
+2016,10,Technology,East,3570.434,11
+2016,10,Technology,South,151.488,2
+2016,10,Technology,West,4113.664,11
+2016,11,Furniture,Central,6187.756,14
+2016,11,Furniture,East,15101.173999999999,21
+2016,11,Furniture,South,3139.5175,12
+2016,11,Furniture,West,5769.053,19
+2016,11,Office Supplies,Central,7283.898,29
+2016,11,Office Supplies,East,6020.091,36
+2016,11,Office Supplies,South,3922.91,16
+2016,11,Office Supplies,West,3951.399,31
+2016,11,Technology,Central,5431.432,14
+2016,11,Technology,East,13603.496000000001,16
+2016,11,Technology,South,733.393,6
+2016,11,Technology,West,4105.28,15
+2016,12,Furniture,Central,3861.9991999999997,11
+2016,12,Furniture,East,6442.579,15
+2016,12,Furniture,South,946.1120000000001,7
+2016,12,Furniture,West,11561.561,18
+2016,12,Office Supplies,Central,2030.126,26
+2016,12,Office Supplies,East,4260.994,29
+2016,12,Office Supplies,South,3570.208,19
+2016,12,Office Supplies,West,6237.994,45
+2016,12,Technology,Central,10845.476,15
+2016,12,Technology,East,13968.834,17
+2016,12,Technology,South,803.96,7
+2016,12,Technology,West,10013.758,18
+2017,1,Furniture,Central,3807.906,4
+2017,1,Furniture,East,1108.1889999999999,6
+2017,1,Furniture,South,781.184,2
+2017,1,Furniture,West,1925.4640000000002,6
+2017,1,Office Supplies,Central,317.642,6
+2017,1,Office Supplies,East,2581.868,11
+2017,1,Office Supplies,South,1665.8339999999998,6
+2017,1,Office Supplies,West,734.338,9
+2017,1,Technology,Central,1816.6080000000002,2
+2017,1,Technology,East,1170.03,6
+2017,1,Technology,South,1635.4080000000001,4
+2017,1,Technology,West,998.02,4
+2017,2,Furniture,Central,394.434,4
+2017,2,Furniture,East,1364.807,6
+2017,2,Furniture,South,1594.214,5
+2017,2,Furniture,West,572.096,2
+2017,2,Office Supplies,Central,651.364,3
+2017,2,Office Supplies,East,1564.584,12
+2017,2,Office Supplies,South,3451.284,9
+2017,2,Office Supplies,West,1127.118,7
+2017,2,Technology,Central,69.93,1
+2017,2,Technology,East,220.43,3
+2017,2,Technology,South,10567.606000000002,4
+2017,2,Technology,West,1400.9479999999999,5
+2017,3,Furniture,Central,4491.081,10
+2017,3,Furniture,East,4515.019,14
+2017,3,Furniture,South,643.652,6
+2017,3,Furniture,West,2622.91,7
+2017,3,Office Supplies,Central,5008.27,15
+2017,3,Office Supplies,East,3807.4139999999998,16
+2017,3,Office Supplies,South,2110.586,10
+2017,3,Office Supplies,West,6398.275,15
+2017,3,Technology,Central,3103.646,9
+2017,3,Technology,East,8442.424,12
+2017,3,Technology,South,1483.9360000000001,2
+2017,3,Technology,West,8537.846,8
+2017,4,Furniture,Central,2233.828,7
+2017,4,Furniture,East,3097.364,7
+2017,4,Furniture,South,963.524,6
+2017,4,Furniture,West,6917.374,13
+2017,4,Office Supplies,Central,3377.4739999999997,11
+2017,4,Office Supplies,East,3925.0,23
+2017,4,Office Supplies,South,1049.992,11
+2017,4,Office Supplies,West,2224.709,19
+2017,4,Technology,Central,1851.05,6
+2017,4,Technology,East,10747.332,7
+2017,4,Technology,South,952.194,5
+2017,4,Technology,West,1339.9260000000002,3
+2017,5,Furniture,Central,4610.925,8
+2017,5,Furniture,East,1379.064,10
+2017,5,Furniture,South,3982.04,9
+2017,5,Furniture,West,4920.546,10
+2017,5,Office Supplies,Central,4327.498,16
+2017,5,Office Supplies,East,4215.88,22
+2017,5,Office Supplies,South,3273.603,24
+2017,5,Office Supplies,West,1114.661,21
+2017,5,Technology,Central,2805.542,7
+2017,5,Technology,East,16663.519,9
+2017,5,Technology,South,4704.59,7
+2017,5,Technology,West,4659.04,9
+2017,6,Furniture,Central,2419.7830000000004,7
+2017,6,Furniture,East,2213.7219999999998,9
+2017,6,Furniture,South,1266.86,1
+2017,6,Furniture,West,6550.159,11
+2017,6,Office Supplies,Central,1419.718,14
+2017,6,Office Supplies,East,6492.164,26
+2017,6,Office Supplies,South,717.276,6
+2017,6,Office Supplies,West,2272.652,21
+2017,6,Technology,Central,2713.647,10
+2017,6,Technology,East,2482.56,7
+2017,6,Technology,South,1471.749,5
+2017,6,Technology,West,9704.196,8
+2017,7,Furniture,Central,1452.002,5
+2017,7,Furniture,East,1622.704,6
+2017,7,Furniture,South,3677.04,5
+2017,7,Furniture,West,5818.013,12
+2017,7,Office Supplies,Central,4222.086,16
+2017,7,Office Supplies,East,3703.384,20
+2017,7,Office Supplies,South,1690.964,14
+2017,7,Office Supplies,West,3287.39,23
+2017,7,Technology,Central,2279.196,6
+2017,7,Technology,East,3198.109,7
+2017,7,Technology,South,1194.415,4
+2017,7,Technology,West,6175.4800000000005,10
+2017,8,Furniture,Central,1908.3927999999999,6
+2017,8,Furniture,East,2626.675,7
+2017,8,Furniture,South,1083.9285,4
+2017,8,Furniture,West,6291.062,9
+2017,8,Office Supplies,Central,1829.9080000000001,19
+2017,8,Office Supplies,East,4534.272,15
+2017,8,Office Supplies,South,1143.774,12
+2017,8,Office Supplies,West,1451.786,21
+2017,8,Technology,Central,3244.254,9
+2017,8,Technology,East,1530.836,7
+2017,8,Technology,South,822.308,3
+2017,8,Technology,West,4075.0040000000004,12
+2017,9,Furniture,Central,8933.4534,18
+2017,9,Furniture,East,6028.317,19
+2017,9,Furniture,South,4581.106,10
+2017,9,Furniture,West,7212.5985,19
+2017,9,Office Supplies,Central,4175.346,38
+2017,9,Office Supplies,East,11637.161,37
+2017,9,Office Supplies,South,2793.581,21
+2017,9,Office Supplies,West,4407.314,42
+2017,9,Technology,Central,4161.298,12
+2017,9,Technology,East,2533.046,9
+2017,9,Technology,South,4648.764,11
+2017,9,Technology,West,8081.406,11
+2017,10,Furniture,Central,811.774,9
+2017,10,Furniture,East,5347.6810000000005,14
+2017,10,Furniture,South,783.128,6
+2017,10,Furniture,West,4870.426,12
+2017,10,Office Supplies,Central,4619.8679999999995,16
+2017,10,Office Supplies,East,2868.656,16
+2017,10,Office Supplies,South,1208.4660000000001,10
+2017,10,Office Supplies,West,7539.660000000001,24
+2017,10,Technology,Central,20370.318,9
+2017,10,Technology,East,6849.128000000001,5
+2017,10,Technology,South,1099.32,4
+2017,10,Technology,West,3214.608,8
+2017,11,Furniture,Central,8186.6948,15
+2017,11,Furniture,East,6612.935,16
+2017,11,Furniture,South,5835.253,11
+2017,11,Furniture,West,11148.746,22
+2017,11,Office Supplies,Central,4393.066,30
+2017,11,Office Supplies,East,4111.422,35
+2017,11,Office Supplies,South,4230.192,18
+2017,11,Office Supplies,West,7407.128,38
+2017,11,Technology,Central,4330.5560000000005,19
+2017,11,Technology,East,11912.261999999999,21
+2017,11,Technology,South,5531.110000000001,10
+2017,11,Technology,West,5367.131,17
+2017,12,Furniture,Central,10481.718,17
+2017,12,Furniture,East,9047.551,16
+2017,12,Furniture,South,2683.944,7
+2017,12,Furniture,West,14391.751999999999,27
+2017,12,Office Supplies,Central,11256.023000000001,24
+2017,12,Office Supplies,East,11608.263,38
+2017,12,Office Supplies,South,5302.3240000000005,18
+2017,12,Office Supplies,West,9166.328,44
+2017,12,Technology,Central,3597.58,9
+2017,12,Technology,East,6747.766,12
+2017,12,Technology,South,2910.754,8
+2017,12,Technology,West,8545.118,16
+2018,1,Furniture,Central,2196.139,7
+2018,1,Furniture,East,1213.661,4
+2018,1,Furniture,South,481.856,2
+2018,1,Furniture,West,2038.506,6
+2018,1,Office Supplies,Central,12482.978,17
+2018,1,Office Supplies,East,2972.215,10
+2018,1,Office Supplies,South,578.2,8
+2018,1,Office Supplies,West,5019.586,17
+2018,1,Technology,Central,6516.639,5
+2018,1,Technology,East,1197.408,4
+2018,1,Technology,South,3755.5339999999997,4
+2018,1,Technology,West,5023.7519999999995,11
+2018,2,Furniture,Central,1204.4604,5
+2018,2,Furniture,East,1773.896,3
+2018,2,Furniture,South,788.674,2
+2018,2,Furniture,West,3007.347,10
+2018,2,Office Supplies,Central,1391.346,8
+2018,2,Office Supplies,East,1514.8120000000001,15
+2018,2,Office Supplies,South,1365.038,2
+2018,2,Office Supplies,West,3106.976,16
+2018,2,Technology,Central,739.0160000000001,4
+2018,2,Technology,East,1679.814,5
+2018,2,Technology,South,29.16,1
+2018,2,Technology,West,3320.458,9
+2018,3,Furniture,Central,7286.7988000000005,11
+2018,3,Furniture,East,1579.212,11
+2018,3,Furniture,South,353.1,2
+2018,3,Furniture,West,1674.334,7
+2018,3,Office Supplies,Central,3236.214,23
+2018,3,Office Supplies,East,2247.632,20
+2018,3,Office Supplies,South,2059.42,12
+2018,3,Office Supplies,West,6998.08,30
+2018,3,Technology,Central,4981.566,9
+2018,3,Technology,East,3864.172,16
+2018,3,Technology,South,4231.2,5
+2018,3,Technology,West,20351.683999999997,14
+2018,4,Furniture,Central,1179.1316,5
+2018,4,Furniture,East,2745.156,9
+2018,4,Furniture,South,2846.9925000000003,10
+2018,4,Furniture,West,2294.678,13
+2018,4,Office Supplies,Central,1521.1,19
+2018,4,Office Supplies,East,5471.214,28
+2018,4,Office Supplies,South,4553.8769999999995,19
+2018,4,Office Supplies,West,2668.756,21
+2018,4,Technology,Central,682.8919999999999,4
+2018,4,Technology,East,1034.91,5
+2018,4,Technology,South,2046.884,8
+2018,4,Technology,West,8496.319000000001,7
+2018,5,Furniture,Central,4559.9662,11
+2018,5,Furniture,East,2419.448,13
+2018,5,Furniture,South,7056.576,8
+2018,5,Furniture,West,2921.568,12
+2018,5,Office Supplies,Central,5555.784,22
+2018,5,Office Supplies,East,2218.583,21
+2018,5,Office Supplies,South,2084.355,20
+2018,5,Office Supplies,West,3635.082,27
+2018,5,Technology,Central,1281.1360000000002,7
+2018,5,Technology,East,1481.3380000000002,6
+2018,5,Technology,South,1802.81,7
+2018,5,Technology,West,8809.336,17
+2018,6,Furniture,Central,3414.8852,9
+2018,6,Furniture,East,4832.552,10
+2018,6,Furniture,South,2301.988,10
+2018,6,Furniture,West,6482.9615,12
+2018,6,Office Supplies,Central,2353.116,25
+2018,6,Office Supplies,East,4035.703,24
+2018,6,Office Supplies,South,2497.754,16
+2018,6,Office Supplies,West,5334.528,32
+2018,6,Technology,Central,2726.4399999999996,7
+2018,6,Technology,East,6049.172,12
+2018,6,Technology,South,4134.178,5
+2018,6,Technology,West,4027.4500000000003,13
+2018,7,Furniture,Central,2301.744,8
+2018,7,Furniture,East,2821.529,14
+2018,7,Furniture,South,1565.6860000000001,7
+2018,7,Furniture,West,4686.863,14
+2018,7,Office Supplies,Central,4150.816,21
+2018,7,Office Supplies,East,3226.86,26
+2018,7,Office Supplies,South,651.858,5
+2018,7,Office Supplies,West,2209.822,21
+2018,7,Technology,Central,2418.284,9
+2018,7,Technology,East,6273.434,16
+2018,7,Technology,South,647.354,5
+2018,7,Technology,West,13870.854,13
+2018,8,Furniture,Central,461.00800000000004,4
+2018,8,Furniture,East,8848.094,8
+2018,8,Furniture,South,1485.9560000000001,4
+2018,8,Furniture,West,4624.064,13
+2018,8,Office Supplies,Central,2344.942,20
+2018,8,Office Supplies,East,9539.954,23
+2018,8,Office Supplies,South,3298.146,13
+2018,8,Office Supplies,West,14616.522,30
+2018,8,Technology,Central,3447.044,8
+2018,8,Technology,East,2353.898,5
+2018,8,Technology,South,5587.432,8
+2018,8,Technology,West,6230.7880000000005,11
+2018,9,Furniture,Central,5034.307,12
+2018,9,Furniture,East,10993.651,17
+2018,9,Furniture,South,1309.2,6
+2018,9,Furniture,West,11179.547999999999,30
+2018,9,Office Supplies,Central,4572.416,35
+2018,9,Office Supplies,East,8761.802,46
+2018,9,Office Supplies,South,7391.076,31
+2018,9,Office Supplies,West,10882.229,59
+2018,9,Technology,Central,7736.273999999999,17
+2018,9,Technology,East,11764.701000000001,23
+2018,9,Technology,South,1482.244,8
+2018,9,Technology,West,5045.4400000000005,22
+2018,10,Furniture,Central,3350.6982000000003,12
+2018,10,Furniture,East,5788.802,14
+2018,10,Furniture,South,7142.368,9
+2018,10,Furniture,West,5602.2,20
+2018,10,Office Supplies,Central,4318.864,28
+2018,10,Office Supplies,East,3566.644,32
+2018,10,Office Supplies,South,3873.8070000000002,17
+2018,10,Office Supplies,West,10949.085000000001,29
+2018,10,Technology,Central,4143.286,10
+2018,10,Technology,East,22939.793999999998,15
+2018,10,Technology,South,1120.776,4
+2018,10,Technology,West,4651.807,18
+2018,11,Furniture,Central,5068.496,21
+2018,11,Furniture,East,10882.994,23
+2018,11,Furniture,South,6950.546,13
+2018,11,Furniture,West,14154.679,28
+2018,11,Office Supplies,Central,6016.676,44
+2018,11,Office Supplies,East,12166.422,48
+2018,11,Office Supplies,South,6310.291,34
+2018,11,Office Supplies,West,6978.948,49
+2018,11,Technology,Central,4069.806,13
+2018,11,Technology,East,22584.222999999998,28
+2018,11,Technology,South,15170.494,13
+2018,11,Technology,West,7584.58,23
+2018,12,Furniture,Central,6504.8868,16
+2018,12,Furniture,East,6954.866,28
+2018,12,Furniture,South,5585.283,13
+2018,12,Furniture,West,12362.431,26
+2018,12,Office Supplies,Central,7870.802,43
+2018,12,Office Supplies,East,7433.38,48
+2018,12,Office Supplies,South,5108.69,21
+2018,12,Office Supplies,West,9225.14,54
+2018,12,Technology,Central,4507.382,11
+2018,12,Technology,East,4897.24,20
+2018,12,Technology,South,4515.764,13
+2018,12,Technology,West,8064.524,17
