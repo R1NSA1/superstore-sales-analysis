@@ -8,10 +8,8 @@
 - **Задачи**: EDA, выявление инсайтов, дашборд
 - **Инструменты**: Python, Pandas, Power BI
 
-## Запуск:
-
-# Установка зависимостей:
+## Установка зависимостей:
 pip install -r requirements.txt
 
-# Запуск ноутбука
-jupyter notebook notebooks/superstore_analysis.ipynb
+## Запуск ноутбука:
+jupyter notebook notebooks/Superstore_Sales_Analysis.ipynb
